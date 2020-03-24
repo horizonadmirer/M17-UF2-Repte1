@@ -22,8 +22,8 @@ Marc Bajona, estudiant de segon curs de SDAMV a l'Escola Joviat (Manresa).
 <!-- Això són els enllaços als respectus llocs que estàn assenyalats en el README.
      Aquest codi NO és visible. -->
 
-[Repte 1]: <https://github.com/mabamo1/M17-UF2-Repte1/blob/tocheck/Repte%201%20-%20PDF%20d'exercicis.pdf>
-[Repte]: <https://github.com/mabamo1/M17-UF2-Repte1/blob/tocheck/Repte%201%20-%20PDF%20d'exercicis.pdf>
-[Exercicis 1 - 5]: <https://github.com/mabamo1/M17-UF2-Repte1/tree/tocheck/repte1_ex1_to_ex5>
-[Exercici 7]: <https://github.com/mabamo1/M17-UF2-Repte1/tree/tocheck/repte1_ex7/exercici7_repte1>
-[Exercici 8]: <https://github.com/mabamo1/M17-UF2-Repte1/tree/tocheck/repte1_ex8>
+[Repte 1]: <https://github.com/mabamo1/M17-UF2-Repte1/blob/master/Repte%201%20-%20PDF%20d'exercicis.pdf>
+[Repte]: <https://github.com/mabamo1/M17-UF2-Repte1/blob/master/Repte%201%20-%20PDF%20d'exercicis.pdf>
+[Exercicis 1 - 5]: <https://github.com/mabamo1/M17-UF2-Repte1/tree/master/repte1_ex1_to_ex5>
+[Exercici 7]: <https://github.com/mabamo1/M17-UF2-Repte1/tree/master/repte1_ex7/exercici7_repte1>
+[Exercici 8]: <https://github.com/mabamo1/M17-UF2-Repte1/tree/master/repte1_ex8>
